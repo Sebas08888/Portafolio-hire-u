@@ -20,7 +20,7 @@ Este repositorio es un fork del [repositorio original del equipo](https://github
 
 GitHub Pages sirve el portafolio estático. Desde la página puedes consultar y descargar documentos. El manual describe el flujo previsto de registro, inicio de sesión, perfil, consulta de ofertas y postulación. Esos pasos requieren un entorno con los módulos correspondientes. Los componentes Java y los scripts MySQL se trabajan por separado y no forman parte de este repositorio.
 
-La página resume seis etapas con una estimación de 26 días hábiles si se ejecutan en secuencia. Para revisar las actividades detalladas y sus dependencias, consulta el plan de gestión y el PERT.
+El plan de gestión enumera 12 actividades y estima un presupuesto de $8.250.000 COP. El PERT del taller representa ocho actividades y calcula una ruta crítica de 14 días (A → B → D → F → G → H). Cada documento usa su propio nivel de detalle.
 
 ## Equipo
 
