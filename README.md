@@ -24,9 +24,10 @@ El plan de gestión enumera 12 actividades y estima un presupuesto de $8.250.000
 
 ## Equipo
 
+- Sebastian Rodriguez
 - Andrés Quintero
 - Andrés Cardozo
 - Andrés Martinez
-- Sebastian Rodriguez
+
 
 Consulta la matriz RACI para ver la distribución de responsabilidades por actividad.
