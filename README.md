@@ -9,7 +9,7 @@ Este repositorio es un fork del [repositorio original del equipo](https://github
 - [Portada del portafolio](index.html) con el alcance del proyecto, sus entregables, el resumen de planeación y el equipo.
 - [Hoja de estilos](styles.css) con el diseño adaptable de la portada.
 - [Manual de instrucciones](manual%20de%20instrucciones/index.html) con la navegación del portafolio y el flujo previsto de la plataforma.
-- [Acta de presentación](01-acta-presentacion.pdf), [plan de gestión y EDT](plan%20de%20gestion%20y%20EDT.pdf), [matriz RACI y diagrama PERT](Matriz%20RACI%20PERT%20Hire-U.pdf), [presupuesto](HIRE_U_Presupuesto_Inversion.xlsx), [matriz de Eisenhower](EJERCICIOHOY.xlsx) y [análisis PESTEL](HIRE-U_Matrices_PESTEL_Partes.xlsx).
+- [Acta de presentación](01-acta-presentacion.pdf), [plan de gestión y EDT](plan%20de%20gestion%20y%20EDT.pdf), [matriz RACI y diagrama PERT](Matriz%20RACI%20PERT%20Hire-U.pdf), [presupuesto](HIRE_U_Presupuesto_Inversion.xlsx), [matriz de Eisenhower](HIRE-U_Matriz_de_Eisenhower.xlsx) y [análisis PESTEL](HIRE-U_Matrices_PESTEL_Partes.xlsx).
 
 ## Cómo abrir el portafolio
 
